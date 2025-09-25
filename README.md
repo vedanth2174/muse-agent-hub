@@ -1,4 +1,35 @@
-# Welcome to your Lovable project
+# StoryForge AI
+
+StoryForge AI is a creative writing assistant web application built with React, TypeScript, and Tailwind CSS.
+
+## 🎯 Core Purpose
+AI-powered writing companion that helps users generate creative content across multiple genres with an intuitive, beautiful interface.
+
+## 🚀 Key Features
+- **6 Genre Selection**: Fantasy, Sci-Fi, Romance, Mystery, Poetry, Adventure
+- **Smart Prompting**: Textarea with inspiration prompts to spark creativity  
+- **Typewriter Animation**: Content appears with realistic typing effect
+- **Export Tools**: Copy to clipboard and download as .txt file
+- **Toast Notifications**: User feedback for all interactions
+
+## 🎨 Design System
+- **Dark Creative Theme**: Deep purples with warm accents optimized for writing
+- **Typography**: Georgia serif for content, Inter for UI
+- **Animations**: Gradient buttons, glow effects, glass morphism
+- **Fully Responsive**: Mobile-first design
+
+## 🛠 Tech Stack
+- React 18 + TypeScript
+- Tailwind CSS with custom design tokens
+- Shadcn/ui components
+- Lucide React icons
+- Vite build system
+
+## 📊 Current Status
+✅ Frontend complete with mock AI responses  
+✅ SEO optimized with proper meta tags  
+⏳ Ready for real AI integration (OpenAI/Claude)  
+⏳ Ready for GitHub connection and Vercel deployment
 
 ## Project info
 
