@@ -125,7 +125,7 @@ export default function WritingAgent() {
               <PenTool className="w-8 h-8 text-primary-foreground" />
             </div>
             <h1 className="text-4xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              Creative Writing AI
+              StoryForge AI
             </h1>
           </div>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
